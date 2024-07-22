@@ -1,1 +1,1 @@
-- 👀 [My resume]([(https://drive.google.com/file/d/1gWXqrm64jurD4AqVHrWIJ0l9dT0HOtJ5/view?usp=sharing)](https://drive.google.com/file/d/1gWXqrm64jurD4AqVHrWIJ0l9dT0HOtJ5/view?usp=sharing))
+- 👀 [My resume](https://drive.google.com/file/d/1gWXqrm64jurD4AqVHrWIJ0l9dT0HOtJ5/view?usp=sharing)

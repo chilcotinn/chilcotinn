@@ -2,7 +2,7 @@
 
 ### I am:
 
-- 💻 Mobile developer (Android)
+- 💻 Mobile Engineer (Android, iOS. Native, Multiplatform)
 
 <h3 align="center">Get in touch</h3>
 

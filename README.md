@@ -24,17 +24,3 @@
     />
   </a>
 </p>
-
-<table style="width: 100%;">
-  <tr style="border-style:hidden;" >
-    <td>
-      <img  style="width: 100%; height: 100%; "
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=chilcotinn&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight"
-      />
-    </td>
-    <td>
-      <img style="width: 100%; height: 100%;"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=chilcotinn&theme=tokyonight&border_radius=16" />
-    </td>
-  </tr>
-</table>
